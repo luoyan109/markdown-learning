@@ -30,6 +30,8 @@ makedowm 寫法:
 ## 標題示範2
 ### 標題示範3
 ```
+<p><br></p>
+
 ## 2. 點號: * + 空格
 * 點號示範
 * 1
@@ -43,6 +45,8 @@ makedowm 寫法:
 * 2
 * 3
 ```
+<p><br></p>
+
 ## 3. 網址: ```[文字描述](網址)``` 
 
 2種寫法，分為顯示網址與不顯示網址
@@ -57,6 +61,8 @@ https://www.mdeditor.tw/
 
 * 補充:文字描述可空白
 ```
+<p><br></p>
+
 ## 4. 圖片放置: ```![文字描述](網址)```
 
 ![示範照片](https://raw.githubusercontent.com/luoyan109/markdown-learning/main/img/06.PNG)
@@ -68,6 +74,8 @@ makedowm 寫法:
 
 * 補充:文字描述可空白
 ```
+<p><br></p>
+
 ## 5. 文字位置: ```<p align="center">文字</p>```
 
 <p align="center">1.center=置中</p>
@@ -86,6 +94,8 @@ makedowm 寫法:
 <p align="right">3.right=置右</p>
 
 ```
+<p><br></p>
+
 ## 6. 圖片位置: ```<p align="center"><img src="圖片網址"></p>```
 * 置中=center 、 置左=left、 置右=right
 <p align="center"><img src='https://raw.githubusercontent.com/luoyan109/markdown-learning/main/img/06.PNG'></p>
