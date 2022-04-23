@@ -14,5 +14,16 @@
 ### 2. 創建檔案:
 ![](https://raw.githubusercontent.com/luoyan109/markdown-learning/main/img/061.PNG)
 ## <p align="center"> part2--基本語言</p>
-* 初學者可以參考線上編輯裡的教學內容-->[Markdown線上編輯器-MdEditor](https://www.mdeditor.tw/)</p>
-* 但請留意有些Markdown的語法不適用於Github! 以下教學將以Github為主</p>
+* 初學者可以參考線上編輯裡的教學內容-->[Markdown線上編輯器-MdEditor](https://www.mdeditor.tw/)
+* 但請留意有些Markdown的語法不適用於Github! 以下教學將以Github為主
+
+## 1. 標題: #+空格
+# 標題示範
+## 標題示範2
+### 標題示範3
+```
+makedowm 寫法:
+# 標題示範
+## 標題示範2
+### 標題示範3
+```
