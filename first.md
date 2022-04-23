@@ -17,7 +17,7 @@
 * 初學者可以參考線上編輯裡的教學內容-->[Markdown線上編輯器-MdEditor](https://www.mdeditor.tw/)
 * 但請留意有些Markdown的語法不適用於Github! 以下教學將以Github為主
 
-## 1. 標題: #+空格
+## 1. 標題: # + 空格
 # 標題示範
 ## 標題示範2
 ### 標題示範3
@@ -26,4 +26,39 @@ makedowm 寫法:
 # 標題示範
 ## 標題示範2
 ### 標題示範3
+```
+## 2. 點號: * + 空格
+* 點號示範
+* 1
+* 2
+* 3
+```
+makedowm 寫法:
+* 點號示範
+* 1
+* 2
+* 3
+```
+## 3. 網址: ```[文字描述](網址)``` 
+
+2種寫法，分為顯示網址與不顯示網址
+
+[點擊前往](https://www.mdeditor.tw/)<br>
+https://www.mdeditor.tw/
+```
+makedowm 寫法: [文字描述](網址) 
+[點擊前往](https://www.mdeditor.tw/)
+https://www.mdeditor.tw/
+
+* 補充:文字描述可空白
+```
+## 4. 圖片放置: ```![文字描述](網址)```
+
+![示範照片](https://raw.githubusercontent.com/luoyan109/markdown-learning/main/img/06.PNG)
+
+```
+makedowm 寫法: ![文字描述](網址) 
+![示範照片](https://raw.githubusercontent.com/luoyan109/markdown-learning/main/img/06.PNG)
+
+* 補充:文字描述可空白
 ```
