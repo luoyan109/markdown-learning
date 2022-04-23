@@ -14,8 +14,10 @@
 ### 2. 創建檔案:
 ![](https://raw.githubusercontent.com/luoyan109/markdown-learning/main/img/061.PNG)
 ## <p align="center"> part2--基本語言</p>
+
 * 初學者可以參考線上編輯裡的教學內容-->[Markdown線上編輯器-MdEditor](https://www.mdeditor.tw/)
 * 但請留意有些Markdown的語法不適用於Github! 以下教學將以Github為主
+<p><br></p>
 
 ## 1. 標題: # + 空格
 # 標題示範
@@ -23,6 +25,7 @@
 ### 標題示範3
 ```
 makedowm 寫法:
+
 # 標題示範
 ## 標題示範2
 ### 標題示範3
@@ -34,6 +37,7 @@ makedowm 寫法:
 * 3
 ```
 makedowm 寫法:
+
 * 點號示範
 * 1
 * 2
@@ -46,7 +50,8 @@ makedowm 寫法:
 [點擊前往](https://www.mdeditor.tw/)<br>
 https://www.mdeditor.tw/
 ```
-makedowm 寫法: [文字描述](網址) 
+makedowm 寫法: 
+
 [點擊前往](https://www.mdeditor.tw/)
 https://www.mdeditor.tw/
 
@@ -57,8 +62,37 @@ https://www.mdeditor.tw/
 ![示範照片](https://raw.githubusercontent.com/luoyan109/markdown-learning/main/img/06.PNG)
 
 ```
-makedowm 寫法: ![文字描述](網址) 
+makedowm 寫法: 
+
 ![示範照片](https://raw.githubusercontent.com/luoyan109/markdown-learning/main/img/06.PNG)
 
 * 補充:文字描述可空白
+```
+## 5. 文字位置: ```<p align="center">文字</p>```
+
+<p align="center">1.center=置中</p>
+
+<p align="left">2.left=置左</p>
+
+<p align="right">3.right=置右</p>
+
+```
+makedowm 寫法: 
+
+<p align="center">1.center=置中</p>
+
+<p align="left">2.left=置左</p>
+
+<p align="right">3.right=置右</p>
+
+```
+## 6. 圖片位置: ```<p align="center"><img src="圖片網址"></p>```
+* 置中=center 、 置左=left、 置右=right
+<p align="center"><img src='https://raw.githubusercontent.com/luoyan109/markdown-learning/main/img/06.PNG'></p>
+
+```
+makedowm 寫法: 
+
+<p align="center"><img src='https://raw.githubusercontent.com/luoyan109/markdown-learning/main/img/06.PNG'></p>
+
 ```
