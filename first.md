@@ -13,7 +13,8 @@
 ![](https://raw.githubusercontent.com/luoyan109/markdown-learning/main/img/066.PNG)
 ### 2. 創建檔案:
  * 創建新檔案:點擊"Add file"-->選擇"Create new file"
- * 上傳檔案或資料夾:點擊"Add file"-->選擇" file"
+ * 上傳檔案或資料夾:點擊"Add file"-->選擇" file"</p>
+ 
 ![](https://raw.githubusercontent.com/luoyan109/markdown-learning/main/img/061.PNG)
 ## <p align="center"> part2--基本語言</p>
 
