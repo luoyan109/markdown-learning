@@ -181,7 +181,7 @@ makedowm 寫法:
 <p><br></p>
 
 ## 10. 圖片位置: ```<p align="center"><img src="圖片網址"></p>```
-* 置中=center 、 置左=left、 置右=right
+* 置中=center 、 置左(預設)=left、 置右=right
 <p align="center"><img src='https://raw.githubusercontent.com/luoyan109/markdown-learning/main/img/06.PNG'></p>
 
 ```
