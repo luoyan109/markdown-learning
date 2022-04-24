@@ -9,9 +9,11 @@
 ----------
 ## <p align="center"> Part1 -- Github環境介紹</p>
 ### 1. 創建專案:
- 登入帳號-->點擊"Repositories"-->點擊右下方的"New"創建專案-->輸入想要的專案名稱-->點擊"Creat Repository"
+ * 登入帳號-->點擊"Repositories"-->點擊右下方的"New"創建專案-->輸入想要的專案名稱-->點擊"Creat Repository"
 ![](https://raw.githubusercontent.com/luoyan109/markdown-learning/main/img/066.PNG)
 ### 2. 創建檔案:
+ * 創建新檔案:點擊"Add file"-->選擇"Create new file"
+ * 上傳檔案或資料夾:點擊"Add file"-->選擇" file"
 ![](https://raw.githubusercontent.com/luoyan109/markdown-learning/main/img/061.PNG)
 ## <p align="center"> part2--基本語言</p>
 
