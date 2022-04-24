@@ -190,3 +190,37 @@ makedowm 寫法:
 <p align="center"><img src='https://raw.githubusercontent.com/luoyan109/markdown-learning/main/img/06.PNG'></p>
 
 ```
+<p><br></p>
+
+## 11. 圖片大小: ```<p align="center"><img src="圖片網址" width="20%" height="20%"></p>```
+* width=寬 height=高
+* width=20% :調取圖片比例(寬)變成20%
+* width=20px :像素，調取圖片呈現大小(寬)，會因屏幕解析度不同有所差異
+
+<p align="center"><img src='https://raw.githubusercontent.com/luoyan109/markdown-learning/main/img/06.PNG' width="20%" height="20%"></p>
+
+<p align="center"><img src='https://raw.githubusercontent.com/luoyan109/markdown-learning/main/img/06.PNG' width="20px"></p>
+
+
+```
+makedowm 寫法: 
+
+<p align="center"><img src='https://raw.githubusercontent.com/luoyan109/markdown-learning/main/img/06.PNG' width="20%" height="20%"></p>
+
+<p align="center"><img src='https://raw.githubusercontent.com/luoyan109/markdown-learning/main/img/06.PNG' width="20px"></p>
+
+```
+<p><br></p>
+
+### <p align="center">文章待續...</p>
+
+<p><br></p>
+
+<p align="center">資料參考:</p>
+
+<p align="center">這一次要幫你徹底搞明白px、ppi、dot、dpi、sp、dp、pt<br>
+原文網址：https://kknews.cc/news/meo42p9.html</p>
+
+<p align="center">Markdown線上編輯器-MdEditor<br>
+原文網址：https://www.mdeditor.tw/</p>
+
